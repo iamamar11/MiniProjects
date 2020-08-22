@@ -1,0 +1,7 @@
+GET http://localhost:3001/countries
+Accept: application/json
+
+###
+GET http://localhost:3001/countries/:India
+Accept: application/json
+
